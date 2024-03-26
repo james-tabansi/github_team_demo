@@ -3,4 +3,4 @@ Ojeifo:
     A brief demo to my team members on github.
 
 James:
-    This is going to be great
+    This is going to be awesome

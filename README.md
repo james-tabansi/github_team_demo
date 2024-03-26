@@ -1,2 +1,6 @@
 # github_team_demo
-A brief demo to my team members on github.
+Ojeifo:
+    A brief demo to my team members on github.
+
+James:
+    This is going to be great
